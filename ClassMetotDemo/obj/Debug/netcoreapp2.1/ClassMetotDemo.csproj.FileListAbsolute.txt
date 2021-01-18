@@ -1,0 +1,11 @@
+C:\Users\RuveyhaRuzgar\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp2.1\ClassMetotDemo.deps.json
+C:\Users\RuveyhaRuzgar\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp2.1\ClassMetotDemo.runtimeconfig.json
+C:\Users\RuveyhaRuzgar\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp2.1\ClassMetotDemo.runtimeconfig.dev.json
+C:\Users\RuveyhaRuzgar\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp2.1\ClassMetotDemo.dll
+C:\Users\RuveyhaRuzgar\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp2.1\ClassMetotDemo.pdb
+C:\Users\RuveyhaRuzgar\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.csprojAssemblyReference.cache
+C:\Users\RuveyhaRuzgar\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\RuveyhaRuzgar\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.AssemblyInfoInputs.cache
+C:\Users\RuveyhaRuzgar\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.AssemblyInfo.cs
+C:\Users\RuveyhaRuzgar\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.dll
+C:\Users\RuveyhaRuzgar\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.pdb
